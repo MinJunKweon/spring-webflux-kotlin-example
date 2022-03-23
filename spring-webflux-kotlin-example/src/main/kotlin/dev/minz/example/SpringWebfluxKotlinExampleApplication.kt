@@ -1,0 +1,6 @@
+package dev.minz.example
+
+import org.springframework.boot.autoconfigure.SpringBootApplication
+
+@SpringBootApplication
+class SpringWebfluxKotlinExampleApplication
